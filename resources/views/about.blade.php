@@ -1,5 +1,4 @@
 @extends('layouts.main')
-
 @section('content')
-  <h1> Ini Halaman Utama</h1>
-  @endsection
+<h1>Ini Tampilan About</h1>
+@endsection
